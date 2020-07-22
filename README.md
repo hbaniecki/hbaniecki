@@ -4,10 +4,10 @@
 <td valign="top" width="50%">
 
 ### Hi 👋
-- 🔭 Currently working on [DALEX](https://github.com/ModelOriented/DALEX) and associated projects
-- 🌱 Currently learning [Deep Learning](https://d2l.ai/)
-- 👨‍💻 My main projects are pinned at [GitHub](https://github.com/hbaniecki)
-- 📫 Reach me at **\@ is on the left** or <a href="https://linkedin.com/in/hbaniecki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hbaniecki" height="20" width="20" /></a>
+- 🔭 Currently **working** on [DALEX](https://github.com/ModelOriented/DALEX) and associated projects
+- 🌱 Currently **learning** [Deep Learning](https://stanford.edu/~shervine/teaching/)
+- 👨‍💻 My main **projects** are pinned below :arrow_down_small: at [GitHub](https://github.com/hbaniecki)
+- 📫 My **\@email** is on the left :arrow_backward: or contact me via <a href="https://linkedin.com/in/hbaniecki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hbaniecki" height="16" width="16" /></a>
 </p>
 
 <p align='center'>
