@@ -24,7 +24,7 @@
 
 * **Data Science** student at Faculty of Mathematics and Information Science, Warsaw University of Technology
 * Working as a **Research Software Engineer** [@ModelOriented](https://github.com/ModelOriented/)
-* Developing tools for e**X**plainable **AI** and contributing to the open-source community (R & Python packages)
+* Developing tools for E**x**plainable **AI** and contributing to the open-source community (R & Python packages)
 * Researching **ML** in the context of interpretability, adversarial attacks and interactive model exploration
 
 </td>
