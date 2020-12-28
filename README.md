@@ -4,10 +4,10 @@
 <td valign="top" width="49%">
 
 ### Hi 👋
-- 🔭 Currently **working** on [DALEX](https://github.com/ModelOriented/DALEX) and associated projects
+- 🔭 Currently **working** on my thesis <!--[dalex](https://github.com/ModelOriented/DALEX) and associated projects-->
 - 🌱 Currently **learning** [Deep Learning](https://d2l.ai/index.html)
-- 👨‍💻 My main **projects** are pinned below :arrow_down_small: at [GitHub](https://github.com/hbaniecki)
 - 📫 Contact me via <a href="https://linkedin.com/in/hbaniecki" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hbaniecki" height="16" width="16" /></a> / my **\@email** is on the left :arrow_backward:
+- 👨‍💻 My main **projects** are pinned below :arrow_down_small: at [GitHub](https://github.com/hbaniecki)
 </p>
 
 <p align='center'>
@@ -25,7 +25,7 @@
 * **Data Science** student at Faculty of Mathematics and Information Science, Warsaw University of Technology
 * Working as a **Research Software Engineer** [@ModelOriented](https://github.com/ModelOriented/)
 * Developing tools for E**x**plainable **AI** and contributing to the open-source community (R & Python packages)
-* Researching **ML** in the context of interpretability, adversarial attacks and interactive model exploration
+* Researching **ML** in the context of explainability, [adversarial attacks](https://github.com/hbaniecki/adversarial-explainable-ai) and [interactive model exploration](https://arxiv.org/abs/2005.00497)
 
 </td>
 </tr></table>
