@@ -25,7 +25,7 @@
 * **Data Science** student at Faculty of Mathematics and Information Science, Warsaw University of Technology
 * Working as a **Research Software Engineer** [@ModelOriented](https://github.com/ModelOriented/)
 * Developing tools for E**x**plainable **AI** and contributing to the open-source community (R & Python packages)
-* Researching **ML** in the context of explainability, [adversarial attacks](https://github.com/hbaniecki/adversarial-explainable-ai) and [interactive model exploration](https://arxiv.org/abs/2005.00497)
+* Researching **ML** in the context of [explainability](https://arxiv.org/abs/2012.14406), [adversarial attacks](https://github.com/hbaniecki/adversarial-explainable-ai) and [interactive model exploration](https://arxiv.org/abs/2005.00497)
 
 </td>
 </tr></table>
