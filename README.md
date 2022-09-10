@@ -1,2 +1,2 @@
 Visit my website
-⇨ https://hbaniecki.com
+⇨ [hbaniecki.com](https://hbaniecki.com)
